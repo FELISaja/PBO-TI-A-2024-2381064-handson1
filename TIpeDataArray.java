@@ -3,10 +3,10 @@ public class TIpeDataArray {
 
         //cara 1
         Object[] kumpulanNumber;
-        kumpulanNumber = new Object[][3];
+        kumpulanNumber = new Object[3];
 
         //cara 2
-        int[] kumpulanNumber2 = new int[3];
+  //      int[] kumpulanNumber2 = new int[3];
 
         //cara 3
         int[] kumpulanNumber3 = new int[] {1, 3, 4, 5};
